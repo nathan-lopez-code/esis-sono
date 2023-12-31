@@ -1,0 +1,7 @@
+dev_dependencies:
+  fflutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  image_path: "assets/icons/logo.png"
+  android: true
+  ios: false
